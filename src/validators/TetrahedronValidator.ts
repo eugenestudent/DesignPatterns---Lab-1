@@ -1,9 +1,10 @@
 import { Point } from '../models/Point';
+import ValidationException from '../exceptions/ValidationException';
 
 export class TetrahedronValidator {
   validate(points: Point[]): [Point, Point, Point, Point] {
     if (points.length !== 4) {
-      throw new Error('Tetrahedron must have 4 points');
+      throw new ValidationException('Tetrahedron must have 4 points');
     }
     return [points[0], points[1], points[2], points[3]];
   }
@@ -11,7 +12,7 @@ export class TetrahedronValidator {
   validateRaw(line: string): [Point, Point, Point, Point] {
     const parts = line.trim().split(/\s+/);
     if (parts.length !== 12 || parts.some(v => isNaN(Number(v)))) {
-      throw new Error('Invalid tetrahedron data');
+      throw new ValidationException('Invalid tetrahedron data');
     }
 
     const points: Point[] = [];
