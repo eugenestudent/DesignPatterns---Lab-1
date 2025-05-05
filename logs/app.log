@@ -1,0 +1,391 @@
+{"level":30,"time":1746381326209,"pid":29100,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.39822368615503 and perimeter: 31.730875151127922"}
+{"level":30,"time":1746381326209,"pid":29100,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.132741228718345 and perimeter: 19.376842195342576"}
+{"level":50,"time":1746381326209,"pid":29100,"hostname":"Niqmul-PC","msg":"Invalid data for oval: 2.0 2.0 7.0 5.0     "}
+{"level":50,"time":1746381326214,"pid":29100,"hostname":"Niqmul-PC","msg":"Error processing tetrahedron data: Validation error: Points must not lie on a single axis"}
+{"level":50,"time":1746381326214,"pid":29100,"hostname":"Niqmul-PC","msg":"Invalid data for tetrahedron: 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5      \r"}
+{"level":30,"time":1746381326215,"pid":29100,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746381512665,"pid":13052,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.39822368615503 and perimeter: 31.730875151127922"}
+{"level":30,"time":1746381512665,"pid":13052,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.132741228718345 and perimeter: 19.376842195342576"}
+{"level":30,"time":1746381512665,"pid":13052,"hostname":"Niqmul-PC","msg":"Oval created with area: 47.12388980384689 and perimeter: 25.526986393758545"}
+{"level":50,"time":1746381512671,"pid":13052,"hostname":"Niqmul-PC","msg":"Error processing tetrahedron data: Validation error: Points must not lie on a single axis"}
+{"level":30,"time":1746381512671,"pid":13052,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":30,"time":1746381512671,"pid":13052,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746381966302,"pid":18044,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.39822368615503 and perimeter: 31.730875151127922"}
+{"level":30,"time":1746381966302,"pid":18044,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.132741228718345 and perimeter: 19.376842195342576"}
+{"level":50,"time":1746381966302,"pid":18044,"hostname":"Niqmul-PC","msg":"Invalid data for oval: 2a.0 3.0 4.1\r"}
+{"level":50,"time":1746381966302,"pid":18044,"hostname":"Niqmul-PC","msg":"Invalid data for oval: 1.0 2.0\r"}
+{"level":50,"time":1746381966302,"pid":18044,"hostname":"Niqmul-PC","msg":"Invalid data for oval: 1.0 2.0 -3.0\r"}
+{"level":30,"time":1746381966302,"pid":18044,"hostname":"Niqmul-PC","msg":"Oval created with area: 47.12388980384689 and perimeter: 25.526986393758545"}
+{"level":50,"time":1746381966309,"pid":18044,"hostname":"Niqmul-PC","msg":"Error processing tetrahedron data: Validation error: Points must not lie on a single axis"}
+{"level":30,"time":1746381966309,"pid":18044,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":30,"time":1746381966309,"pid":18044,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: NaN and surface area: NaN"}
+{"level":30,"time":1746381966309,"pid":18044,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.39822368615503 and perimeter: 31.730875151127922"}
+{"level":30,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.132741228718345 and perimeter: 19.376842195342576"}
+{"level":50,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Invalid data for oval: 2a.0 3.0 4.1\r"}
+{"level":50,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Invalid data for oval: 1.0 2.0\r"}
+{"level":50,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Invalid data for oval: 1.0 2.0 -3.0\r"}
+{"level":30,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Oval created with area: 47.12388980384689 and perimeter: 25.526986393758545"}
+{"level":30,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":30,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: NaN and surface area: NaN"}
+{"level":30,"time":1746382780853,"pid":22660,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746383718815,"pid":15612,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.39822368615503 and perimeter: 31.730875151127922. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383718815,"pid":15612,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.132741228718345 and perimeter: 19.376842195342576. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746383718815,"pid":15612,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746383718815,"pid":15612,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746383718816,"pid":15612,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746383718816,"pid":15612,"hostname":"Niqmul-PC","msg":"Oval created with area: 47.12388980384689 and perimeter: 25.526986393758545. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383718816,"pid":15612,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.39822368615503 and perimeter: 31.730875151127922. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383718816,"pid":15612,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746383718816,"pid":15612,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746383718816,"pid":15612,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746383718816,"pid":15612,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746383910947,"pid":5156,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.84955592153876 and perimeter: 31.730875151127922. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383910947,"pid":5156,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.283185307179586 and perimeter: 19.376842195342576. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746383910947,"pid":5156,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746383910947,"pid":5156,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746383910947,"pid":5156,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746383910947,"pid":5156,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.780972450961723 and perimeter: 25.526986393758545. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383910948,"pid":5156,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.84955592153876 and perimeter: 31.730875151127922. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383910948,"pid":5156,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746383910948,"pid":5156,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746383910948,"pid":5156,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746383910948,"pid":5156,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746383912792,"pid":28908,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.84955592153876 and perimeter: 31.730875151127922. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383912792,"pid":28908,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.283185307179586 and perimeter: 19.376842195342576. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746383912792,"pid":28908,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746383912792,"pid":28908,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746383912792,"pid":28908,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746383912792,"pid":28908,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.780972450961723 and perimeter: 25.526986393758545. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383912792,"pid":28908,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.84955592153876 and perimeter: 31.730875151127922. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383912793,"pid":28908,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746383912793,"pid":28908,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746383912793,"pid":28908,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746383912793,"pid":28908,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746383944314,"pid":4520,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.84955592153876 and perimeter: 15.865437575563961. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383944314,"pid":4520,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.283185307179586 and perimeter: 9.688421097671288. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746383944314,"pid":4520,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746383944314,"pid":4520,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746383944314,"pid":4520,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746383944315,"pid":4520,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.780972450961723 and perimeter: 12.763493196879272. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383944315,"pid":4520,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.84955592153876 and perimeter: 15.865437575563961. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746383944315,"pid":4520,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746383944315,"pid":4520,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746383944315,"pid":4520,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746383944315,"pid":4520,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746384093539,"pid":29956,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.865437575563961. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384093539,"pid":29956,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.688421097671288. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746384093539,"pid":29956,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384093539,"pid":29956,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384093539,"pid":29956,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384093539,"pid":29956,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.763493196879272. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384093539,"pid":29956,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.865437575563961. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384093540,"pid":29956,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384093540,"pid":29956,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384093540,"pid":29956,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384093540,"pid":29956,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746384113010,"pid":28572,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384113010,"pid":28572,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746384113010,"pid":28572,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384113010,"pid":28572,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384113010,"pid":28572,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384113010,"pid":28572,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384113010,"pid":28572,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384113011,"pid":28572,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384113011,"pid":28572,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384113011,"pid":28572,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384113011,"pid":28572,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":30,"time":1746384267047,"pid":23032,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384267047,"pid":23032,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746384267047,"pid":23032,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384267047,"pid":23032,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384267047,"pid":23032,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384267047,"pid":23032,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384267047,"pid":23032,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384267055,"pid":23032,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384267055,"pid":23032,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384267055,"pid":23032,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384267055,"pid":23032,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384267055,"pid":23032,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746384286341,"pid":3996,"hostname":"Niqmul-PC","msg":"Invalid oval input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384286342,"pid":3996,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384286342,"pid":3996,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384286342,"pid":3996,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384286342,"pid":3996,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384286342,"pid":3996,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384396821,"pid":10308,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384396822,"pid":10308,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384396822,"pid":10308,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384396822,"pid":10308,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384396822,"pid":10308,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384396822,"pid":10308,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384441688,"pid":31636,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69. isCircle: false, intersectsOneAxis: false"}
+{"level":50,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. isCircle: false, intersectsOneAxis: false"}
+{"level":30,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384441689,"pid":31636,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":50,"time":1746384548262,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 0.0 0.0 4.0 6.0"}
+{"level":50,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 1.0 5.0 3.0"}
+{"level":50,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":50,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2.0 2.0 7.0 5.0"}
+{"level":50,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 0.0 0.0 6.0 4.0"}
+{"level":50,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 0.0 0.0 4.0 6.0"}
+{"level":30,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384548263,"pid":24372,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384548264,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384548264,"pid":24372,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384548264,"pid":24372,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384562191,"pid":13456,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. intersectsOneAxis: false"}
+{"level":30,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69. intersectsOneAxis: false"}
+{"level":50,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76. intersectsOneAxis: false"}
+{"level":30,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. intersectsOneAxis: false"}
+{"level":30,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87. intersectsOneAxis: false"}
+{"level":30,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384562192,"pid":13456,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":50,"time":1746384628741,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 0.0 0.0 4.0 6.0"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 1.0 5.0 3.0"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2.0 2.0 7.0 5.0"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 0.0 0.0 6.0 4.0"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid oval input: 0.0 0.0 4.0 6.0"}
+{"level":30,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384628742,"pid":19852,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69."}
+{"level":50,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76."}
+{"level":30,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384743662,"pid":10752,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384743663,"pid":10752,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384743663,"pid":10752,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384743663,"pid":10752,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384743663,"pid":10752,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384743663,"pid":10752,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384752694,"pid":8924,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69."}
+{"level":50,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76."}
+{"level":30,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384752695,"pid":8924,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746384960921,"pid":32420,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69."}
+{"level":50,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76."}
+{"level":30,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Oval created with area: 11.78 and perimeter: 12.76."}
+{"level":30,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746384960922,"pid":32420,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746385092043,"pid":9388,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746385092043,"pid":9388,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69."}
+{"level":50,"time":1746385092043,"pid":9388,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746385092043,"pid":9388,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746385092043,"pid":9388,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746385092044,"pid":9388,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746385092044,"pid":9388,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746385092044,"pid":9388,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746385092044,"pid":9388,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746385092044,"pid":9388,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746385330478,"pid":27872,"hostname":"Niqmul-PC","msg":"Oval created with area: 18.85 and perimeter: 15.87."}
+{"level":30,"time":1746385330478,"pid":27872,"hostname":"Niqmul-PC","msg":"Oval created with area: 6.28 and perimeter: 9.69."}
+{"level":50,"time":1746385330478,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746385330478,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746385330478,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746385330479,"pid":27872,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746385330479,"pid":27872,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746385330479,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746385330479,"pid":27872,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746385330479,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746385518981,"pid":21372,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746385518982,"pid":21372,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746385603587,"pid":11736,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746385603587,"pid":11736,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746385603587,"pid":11736,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746385603587,"pid":11736,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746385603587,"pid":11736,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746385603588,"pid":11736,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746385603588,"pid":11736,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746385603588,"pid":11736,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746385603588,"pid":11736,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746385603588,"pid":11736,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746385610317,"pid":13096,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746385610318,"pid":13096,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746385706958,"pid":12340,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746385706958,"pid":12340,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746385706958,"pid":12340,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746385706958,"pid":12340,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746385706958,"pid":12340,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746385706959,"pid":12340,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746385706959,"pid":12340,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746385706959,"pid":12340,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746385706959,"pid":12340,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746385706959,"pid":12340,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746388031834,"pid":32500,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746388031834,"pid":32500,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746388031834,"pid":32500,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746388031834,"pid":32500,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746388031834,"pid":32500,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746388031835,"pid":32500,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746388031835,"pid":32500,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746388031835,"pid":32500,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746388031835,"pid":32500,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746388031835,"pid":32500,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746388055416,"pid":6404,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746388055416,"pid":6404,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746388055416,"pid":6404,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1"}
+{"level":50,"time":1746388055416,"pid":6404,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0"}
+{"level":50,"time":1746388055416,"pid":6404,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0"}
+{"level":30,"time":1746388055417,"pid":6404,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746388055417,"pid":6404,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746388055417,"pid":6404,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746388055417,"pid":6404,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746388055417,"pid":6404,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746388245330,"pid":12716,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Reason: Validation error: Invalid oval data"}
+{"level":50,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Reason: Validation error: Invalid oval data"}
+{"level":50,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Reason: Validation error: Invalid oval data"}
+{"level":30,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746388245331,"pid":12716,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746388270861,"pid":8588,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746388270862,"pid":8588,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746388295746,"pid":12740,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746388295746,"pid":12740,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746388295746,"pid":12740,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746388295746,"pid":12740,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746388295746,"pid":12740,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746388295747,"pid":12740,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08328033333333333 and surface area: 3.464"}
+{"level":30,"time":1746388295747,"pid":12740,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 36"}
+{"level":50,"time":1746388295747,"pid":12740,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746388295747,"pid":12740,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 4"}
+{"level":50,"time":1746388295747,"pid":12740,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746389069281,"pid":9812,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746389069281,"pid":9812,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746389069281,"pid":9812,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746389069282,"pid":9812,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746389069282,"pid":9812,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746389069282,"pid":9812,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08 and surface area: 1.4"}
+{"level":30,"time":1746389069282,"pid":9812,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 8.49"}
+{"level":50,"time":1746389069282,"pid":9812,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746389069282,"pid":9812,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 0"}
+{"level":50,"time":1746389069282,"pid":9812,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746389239361,"pid":4672,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746389239361,"pid":4672,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746389239361,"pid":4672,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746389239361,"pid":4672,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746389239361,"pid":4672,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746389239367,"pid":4672,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08 and surface area: 1.4"}
+{"level":30,"time":1746389239367,"pid":4672,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 8.49"}
+{"level":50,"time":1746389239367,"pid":4672,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746389239367,"pid":4672,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 0"}
+{"level":50,"time":1746389239367,"pid":4672,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746389239367,"pid":4672,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.17 and surface area: 2.37"}
+{"level":30,"time":1746389368433,"pid":19204,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746389368433,"pid":19204,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746389368433,"pid":19204,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746389368433,"pid":19204,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746389368433,"pid":19204,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746389368434,"pid":19204,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08 and surface area: 1.4"}
+{"level":30,"time":1746389368434,"pid":19204,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 8.49"}
+{"level":50,"time":1746389368434,"pid":19204,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746389368434,"pid":19204,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 0"}
+{"level":50,"time":1746389368434,"pid":19204,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746389368434,"pid":19204,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.17 and surface area: 2.37"}
+{"level":30,"time":1746389368801,"pid":23052,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746389368801,"pid":23052,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08 and surface area: 1.4"}
+{"level":30,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 8.49"}
+{"level":50,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 0"}
+{"level":50,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746389368802,"pid":23052,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.17 and surface area: 2.37"}
+{"level":30,"time":1746389370249,"pid":27872,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746389370249,"pid":27872,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746389370249,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746389370249,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746389370249,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746389370250,"pid":27872,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08 and surface area: 1.4"}
+{"level":30,"time":1746389370250,"pid":27872,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 8.49"}
+{"level":50,"time":1746389370250,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746389370250,"pid":27872,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 0"}
+{"level":50,"time":1746389370250,"pid":27872,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746389370250,"pid":27872,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.17 and surface area: 2.37"}
