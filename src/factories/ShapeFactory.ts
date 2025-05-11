@@ -4,17 +4,40 @@ import { Oval } from '../models/Oval';
 import { Tetrahedron } from '../models/Tetrahedron';
 
 export interface ShapeFactory {
-  createShape(id: string, points: Point[]): Shape;
+  createShape(name: string, points: Point[]): Shape;
+}
+
+// ID Generator
+export class IdGenerator {
+  private static instance: IdGenerator;
+  private currentId: number = 0;
+  
+  private constructor() {}
+  
+  public static getInstance(): IdGenerator {
+    if (!IdGenerator.instance) {
+      IdGenerator.instance = new IdGenerator();
+    }
+    return IdGenerator.instance;
+  }
+  
+  public getNextId(): string {
+    this.currentId += 1;
+    return this.currentId.toString();
+  }
+  
 }
 
 export class OvalFactory implements ShapeFactory {
-  createShape(id: string, points: Point[]): Oval {
-    return new Oval(id, points as [Point, Point]);
+  createShape(name: string, points: Point[]): Oval {
+    const id = IdGenerator.getInstance().getNextId();
+    return new Oval(id, name, points as [Point, Point]);
   }
 }
 
 export class TetrahedronFactory implements ShapeFactory {
-  createShape(id: string, points: Point[]): Tetrahedron {
-    return new Tetrahedron(id, points as [Point, Point, Point, Point]);
+  createShape(name: string, points: Point[]): Tetrahedron {
+    const id = IdGenerator.getInstance().getNextId();
+    return new Tetrahedron(id, name, points as [Point, Point, Point, Point]);
   }
 }

@@ -20,7 +20,7 @@ describe('Tetrahedron Service', () => {
       new Point(0.5, Math.sqrt(3) / 6, Math.sqrt(6) / 3),
     ];
 
-    const tetrahedron = new Tetrahedron('tetra1', points);
+    const tetrahedron = new Tetrahedron('1', 'tetra1', points);
 
     const volume = tetrahedronService.calculateVolume(tetrahedron);
     expect(volume).toBeCloseTo(0.11785, 1);
@@ -34,7 +34,7 @@ describe('Tetrahedron Service', () => {
       new Point(0.5, Math.sqrt(3) / 6, Math.sqrt(6) / 3),
     ];
 
-    const tetrahedron = new Tetrahedron('tetra1', points);
+    const tetrahedron = new Tetrahedron('1','tetra1', points);
 
     const surfaceArea = tetrahedronService.calculateSurfaceArea(tetrahedron);
     expect(surfaceArea).toBeCloseTo(1.74, 1);

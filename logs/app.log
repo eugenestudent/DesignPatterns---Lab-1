@@ -422,3 +422,1385 @@
 {"level":30,"time":1746455492336,"pid":16192,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 0"}
 {"level":50,"time":1746455492336,"pid":16192,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
 {"level":30,"time":1746455492336,"pid":16192,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.17 and surface area: 2.37"}
+{"level":30,"time":1746463904204,"pid":18124,"hostname":"Niqmul-PC","msg":"Oval created with area: 75.4 and perimeter: 15.87."}
+{"level":30,"time":1746463904204,"pid":18124,"hostname":"Niqmul-PC","msg":"Oval created with area: 25.13 and perimeter: 9.69."}
+{"level":50,"time":1746463904204,"pid":18124,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746463904205,"pid":18124,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746463904205,"pid":18124,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746463904211,"pid":18124,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.08 and surface area: 1.4"}
+{"level":30,"time":1746463904211,"pid":18124,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 8.49"}
+{"level":50,"time":1746463904211,"pid":18124,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5"}
+{"level":30,"time":1746463904211,"pid":18124,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0 and surface area: 0"}
+{"level":50,"time":1746463904211,"pid":18124,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0"}
+{"level":30,"time":1746463904211,"pid":18124,"hostname":"Niqmul-PC","msg":"Tetrahedron created with volume: 0.17 and surface area: 2.37"}
+{"level":30,"time":1746985873775,"pid":5172,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746985873775,"pid":5172,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746985873775,"pid":5172,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 2: area=25.13, perimeter=9.69"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Oval 2 created and added to repository"}
+{"level":50,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Added shape 3 to repository"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 3"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 3: area=1.4, volume=0.08"}
+{"level":30,"time":1746985873776,"pid":5172,"hostname":"Niqmul-PC","msg":"Tetrahedron 3 created and added to repository"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Added shape 4 to repository"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 4"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 4: area=8.49, volume=0"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Tetrahedron 4 created and added to repository"}
+{"level":50,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Added shape 5 to repository"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 5"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 5: area=0, volume=0"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Tetrahedron 5 created and added to repository"}
+{"level":50,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Added shape 6 to repository"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 6"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 6: area=2.37, volume=0.17"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Tetrahedron 6 created and added to repository"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Found 2 shapes in the first quadrant"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"Found 5 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746985873777,"pid":5172,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = -1"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = -1"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Remaining shapes: 5"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746985873786,"pid":5172,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 4"}
+{"level":30,"time":1746985882887,"pid":7032,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746985882887,"pid":7032,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746985882887,"pid":7032,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746985882887,"pid":7032,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 2: area=25.13, perimeter=9.69"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Oval 2 created and added to repository"}
+{"level":50,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Added shape 3 to repository"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 3"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 3: area=1.4, volume=0.08"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Tetrahedron 3 created and added to repository"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Added shape 4 to repository"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 4"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 4: area=8.49, volume=0"}
+{"level":30,"time":1746985882888,"pid":7032,"hostname":"Niqmul-PC","msg":"Tetrahedron 4 created and added to repository"}
+{"level":50,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Added shape 5 to repository"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 5"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 5: area=0, volume=0"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Tetrahedron 5 created and added to repository"}
+{"level":50,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Added shape 6 to repository"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 6"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 6: area=2.37, volume=0.17"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Tetrahedron 6 created and added to repository"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Found 2 shapes in the first quadrant"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"Found 5 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746985882889,"pid":7032,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = -1"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = -1"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Remaining shapes: 5"}
+{"level":30,"time":1746985882898,"pid":7032,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746985882899,"pid":7032,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746985882899,"pid":7032,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746985882899,"pid":7032,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 4"}
+{"level":30,"time":1746985902593,"pid":3560,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746985902593,"pid":3560,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 2: area=25.13, perimeter=9.69"}
+{"level":30,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Oval 2 created and added to repository"}
+{"level":50,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Invalid oval input: 2a.0 3.0 4.1. Validation error: Invalid oval data"}
+{"level":50,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0. Validation error: Invalid oval data"}
+{"level":50,"time":1746985902594,"pid":3560,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0. Validation error: Invalid oval data"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Added shape 3 to repository"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 3"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 3: area=1.4, volume=0.08"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Tetrahedron 3 created and added to repository"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Added shape 4 to repository"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 4"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 4: area=8.49, volume=0"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Tetrahedron 4 created and added to repository"}
+{"level":50,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Added shape 5 to repository"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 5"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 5: area=0, volume=0"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Tetrahedron 5 created and added to repository"}
+{"level":50,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 0.0 0.0 6.0 0.0. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Added shape 6 to repository"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 6"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 6: area=2.37, volume=0.17"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Tetrahedron 6 created and added to repository"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746985902595,"pid":3560,"hostname":"Niqmul-PC","msg":"Found 2 shapes in the first quadrant"}
+{"level":30,"time":1746985902596,"pid":3560,"hostname":"Niqmul-PC","msg":"Found 5 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746985902596,"pid":3560,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746985902604,"pid":3560,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746985902604,"pid":3560,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746985902604,"pid":3560,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = -1"}
+{"level":30,"time":1746985902604,"pid":3560,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = -1"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Remaining shapes: 5"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746985902605,"pid":3560,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 4"}
+{"level":30,"time":1746987437243,"pid":6088,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987437243,"pid":6088,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987437247,"pid":6088,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987437248,"pid":6088,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987437248,"pid":6088,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987437248,"pid":6088,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987437248,"pid":6088,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987437248,"pid":6088,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987437252,"pid":6088,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987437261,"pid":6088,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987437262,"pid":6088,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746987491452,"pid":17692,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987491452,"pid":17692,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987491453,"pid":17692,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987491454,"pid":17692,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987491463,"pid":17692,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746987508962,"pid":2704,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987508962,"pid":2704,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987508962,"pid":2704,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987508963,"pid":2704,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987508964,"pid":2704,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987508964,"pid":2704,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987508964,"pid":2704,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987508973,"pid":2704,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746987620763,"pid":22588,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987620763,"pid":22588,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987620764,"pid":22588,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987620764,"pid":22588,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987620764,"pid":22588,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987620764,"pid":22588,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987620764,"pid":22588,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987620764,"pid":22588,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987620764,"pid":22588,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987620765,"pid":22588,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987620774,"pid":22588,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746987630681,"pid":25052,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987630681,"pid":25052,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987630682,"pid":25052,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987630682,"pid":25052,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987630682,"pid":25052,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987630682,"pid":25052,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987630682,"pid":25052,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987630682,"pid":25052,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987630683,"pid":25052,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987630692,"pid":25052,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987630692,"pid":25052,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987630692,"pid":25052,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987630692,"pid":25052,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987630692,"pid":25052,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987630692,"pid":25052,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987630692,"pid":25052,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987630693,"pid":25052,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746987711204,"pid":2740,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987711204,"pid":2740,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987711205,"pid":2740,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987711205,"pid":2740,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987711205,"pid":2740,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987711205,"pid":2740,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987711205,"pid":2740,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987711205,"pid":2740,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987711205,"pid":2740,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987711206,"pid":2740,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987711215,"pid":2740,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987711215,"pid":2740,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987711215,"pid":2740,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987711215,"pid":2740,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987711216,"pid":2740,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746987753054,"pid":8476,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987753054,"pid":8476,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987753055,"pid":8476,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987753055,"pid":8476,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987753055,"pid":8476,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987753055,"pid":8476,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987753055,"pid":8476,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987753055,"pid":8476,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987753056,"pid":8476,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987753065,"pid":8476,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987753065,"pid":8476,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987753065,"pid":8476,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987753065,"pid":8476,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987753066,"pid":8476,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746987773538,"pid":18140,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746987773539,"pid":18140,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746987773539,"pid":18140,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746987773539,"pid":18140,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746987773540,"pid":18140,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746987773541,"pid":18140,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746987773541,"pid":18140,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746987773541,"pid":18140,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746987773550,"pid":18140,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746988280314,"pid":9156,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746988280314,"pid":9156,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746988280315,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746988280316,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746988280325,"pid":9156,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746988466664,"pid":24832,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746988466664,"pid":24832,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746988466665,"pid":24832,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746988466665,"pid":24832,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746988466665,"pid":24832,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988466665,"pid":24832,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746988466665,"pid":24832,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746988466665,"pid":24832,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746988466665,"pid":24832,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746988466666,"pid":24832,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746988466675,"pid":24832,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746988645117,"pid":9968,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746988645118,"pid":9968,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746988645118,"pid":9968,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746988645118,"pid":9968,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746988645118,"pid":9968,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988645118,"pid":9968,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746988645118,"pid":9968,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746988645118,"pid":9968,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"=== Demonstrating specifications ==="}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name 'Oval 1'"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746988645119,"pid":9968,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746988645128,"pid":9968,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746988645129,"pid":9968,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746988831114,"pid":7888,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746988831115,"pid":7888,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746988831115,"pid":7888,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746988831115,"pid":7888,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746988831115,"pid":7888,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988831115,"pid":7888,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746988831115,"pid":7888,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746988831115,"pid":7888,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name [object Object]'"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746988831116,"pid":7888,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746988831125,"pid":7888,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746988831125,"pid":7888,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746988831125,"pid":7888,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746988831125,"pid":7888,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746988831126,"pid":7888,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746988881008,"pid":20032,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746988881008,"pid":20032,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746988881009,"pid":20032,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746988881009,"pid":20032,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746988881009,"pid":20032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988881009,"pid":20032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746988881009,"pid":20032,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746988881009,"pid":20032,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746988881009,"pid":20032,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name NameSpecification'"}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746988881010,"pid":20032,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746988881018,"pid":20032,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746988885077,"pid":8128,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746988885078,"pid":8128,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746988885078,"pid":8128,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746988885078,"pid":8128,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name NameSpecification'"}
+{"level":30,"time":1746988885079,"pid":8128,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746988885080,"pid":8128,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746988885080,"pid":8128,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746988885088,"pid":8128,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746988885088,"pid":8128,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746988885088,"pid":8128,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746988885088,"pid":8128,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746988885089,"pid":8128,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989020138,"pid":6388,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989020138,"pid":6388,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989020139,"pid":6388,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name NameSpecification'"}
+{"level":30,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989020140,"pid":6388,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746989020149,"pid":6388,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989091869,"pid":8096,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989091870,"pid":8096,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989091870,"pid":8096,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989091870,"pid":8096,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989091871,"pid":8096,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name NameSpecification'"}
+{"level":30,"time":1746989091872,"pid":8096,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989091872,"pid":8096,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989091872,"pid":8096,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746989091880,"pid":8096,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989091880,"pid":8096,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989091880,"pid":8096,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989091880,"pid":8096,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746989091881,"pid":8096,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989157666,"pid":9156,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989157666,"pid":9156,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989157667,"pid":9156,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989157667,"pid":9156,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989157667,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989157667,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989157667,"pid":9156,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989157667,"pid":9156,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 1 shapes with name NameSpecification'"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989157668,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746989157677,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989157677,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989157677,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989157677,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746989157678,"pid":9156,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989182436,"pid":9688,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989182436,"pid":9688,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989182437,"pid":9688,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989182437,"pid":9688,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989182437,"pid":9688,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989182437,"pid":9688,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989182437,"pid":9688,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989182437,"pid":9688,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Found 0 shapes with entered name'"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989182438,"pid":9688,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989182447,"pid":9688,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746989182448,"pid":9688,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989221636,"pid":9156,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989221636,"pid":9156,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989221637,"pid":9156,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989221637,"pid":9156,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989221637,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989221637,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989221637,"pid":9156,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989221637,"pid":9156,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 1 shapes with Oval 1 name'"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989221638,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746989221647,"pid":9156,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989225919,"pid":3636,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989225919,"pid":3636,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989225920,"pid":3636,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989225921,"pid":3636,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989225921,"pid":3636,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989225921,"pid":3636,"hostname":"Niqmul-PC","msg":"Found 1 shapes with Oval 1 name'"}
+{"level":30,"time":1746989225921,"pid":3636,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989225921,"pid":3636,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989225921,"pid":3636,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746989225930,"pid":3636,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989225930,"pid":3636,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989225930,"pid":3636,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989225930,"pid":3636,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746989225931,"pid":3636,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989244142,"pid":3672,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989244143,"pid":3672,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989244143,"pid":3672,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989244143,"pid":3672,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989244144,"pid":3672,"hostname":"Niqmul-PC","msg":"Found 1 shapes with Oval 1 name'"}
+{"level":30,"time":1746989244145,"pid":3672,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989244145,"pid":3672,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989244145,"pid":3672,"hostname":"Niqmul-PC","msg":"=== Demonstrating sorting ==="}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"=== Demonstrating warehouse ==="}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"=== Demonstrating removal by ID ==="}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID 2 using specification"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Removed shape 2 from repository"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Removal via specification result: success"}
+{"level":30,"time":1746989244154,"pid":3672,"hostname":"Niqmul-PC","msg":"Remaining shapes after spec removal: 0"}
+{"level":30,"time":1746989781700,"pid":22124,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746989781700,"pid":22124,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746989781701,"pid":22124,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746989781701,"pid":22124,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746989781701,"pid":22124,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989781701,"pid":22124,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746989781701,"pid":22124,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746989781701,"pid":22124,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746989781701,"pid":22124,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746989781702,"pid":22124,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746989781711,"pid":22124,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746990540975,"pid":9692,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746990540975,"pid":9692,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746990540976,"pid":9692,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746990540976,"pid":9692,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746990540976,"pid":9692,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746990540976,"pid":9692,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746990540976,"pid":9692,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746990540976,"pid":9692,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746990540976,"pid":9692,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' name"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746990540977,"pid":9692,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746990540987,"pid":9692,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746990545795,"pid":1192,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746990545795,"pid":1192,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746990545795,"pid":1192,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746990545795,"pid":1192,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746990545796,"pid":1192,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746990545797,"pid":1192,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746990545797,"pid":1192,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746990545797,"pid":1192,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746990545797,"pid":1192,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746990545806,"pid":1192,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746990575736,"pid":19076,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746990575736,"pid":19076,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746990575737,"pid":19076,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746990575737,"pid":19076,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746990575737,"pid":19076,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746990575737,"pid":19076,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746990575737,"pid":19076,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746990575737,"pid":19076,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Found 0 shapes with 'Oval 2' name"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Found 0 shapes with '3' ID"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746990575738,"pid":19076,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746990575747,"pid":19076,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746991278170,"pid":18844,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746991278171,"pid":18844,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746991278171,"pid":18844,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746991278171,"pid":18844,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746991278171,"pid":18844,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746991278171,"pid":18844,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746991278171,"pid":18844,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746991278171,"pid":18844,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746991278172,"pid":18844,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746991278181,"pid":18844,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746991278181,"pid":18844,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746991278181,"pid":18844,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746991278181,"pid":18844,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746991278182,"pid":18844,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746991353328,"pid":444,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746991353329,"pid":444,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746991353329,"pid":444,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746991353329,"pid":444,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746991353329,"pid":444,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746991353329,"pid":444,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746991353329,"pid":444,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746991353329,"pid":444,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746991353330,"pid":444,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"Current WarehHouseState getAll() {\n        return new Map(this.data);\n    }"}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746991353339,"pid":444,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746991353340,"pid":444,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746991358742,"pid":10320,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746991358743,"pid":10320,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746991358743,"pid":10320,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746991358743,"pid":10320,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746991358744,"pid":10320,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746991358745,"pid":10320,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746991358745,"pid":10320,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746991358745,"pid":10320,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746991358745,"pid":10320,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Current WarehHouseState getAll() {\n        return new Map(this.data);\n    }"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746991358754,"pid":10320,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746992078310,"pid":9632,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746992078310,"pid":9632,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=75.4, perimeter=15.87"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=1.4, volume=0.08"}
+{"level":30,"time":1746992078311,"pid":9632,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746992078312,"pid":9632,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746992078312,"pid":9632,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746992078312,"pid":9632,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746992078312,"pid":9632,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746992078312,"pid":9632,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746992078312,"pid":9632,"hostname":"Niqmul-PC","msg":"Found 1 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746992078312,"pid":9632,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 0"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Shape 1: area=75.4, perimeter=15.87, volume=undefined"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 0 to 1"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=56.55, perimeter=14.53"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=56.55, perimeter=14.53, volume=undefined"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746992078321,"pid":9632,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746992118962,"pid":8204,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746992118962,"pid":8204,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746992118967,"pid":8204,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746992118967,"pid":8204,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746992118968,"pid":8204,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992118968,"pid":8204,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=37.7, perimeter=13.36"}
+{"level":30,"time":1746992118968,"pid":8204,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746992118968,"pid":8204,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=0.65, volume=0"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"Found 2 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746992118969,"pid":8204,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 1"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Shape 1: area=37.7, perimeter=13.36, volume=undefined"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 2 to 3"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=18.85, perimeter=12.45"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=18.85, perimeter=12.45, volume=undefined"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746992118978,"pid":8204,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746992576812,"pid":23452,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746992576812,"pid":23452,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746992576812,"pid":23452,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=37.7, perimeter=13.36"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=0.65, volume=0"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746992576813,"pid":23452,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746992576814,"pid":23452,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746992576814,"pid":23452,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746992576814,"pid":23452,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746992576814,"pid":23452,"hostname":"Niqmul-PC","msg":"Found 2 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746992576814,"pid":23452,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 1"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Shape 1: area=37.7, perimeter=13.36, volume=undefined"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 2 to 3"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=18.85, perimeter=12.45"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=18.85, perimeter=12.45, volume=undefined"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746992576823,"pid":23452,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746992580551,"pid":18128,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746992580551,"pid":18128,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746992580551,"pid":18128,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=37.7, perimeter=13.36"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=0.65, volume=0"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746992580552,"pid":18128,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746992580553,"pid":18128,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746992580553,"pid":18128,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746992580553,"pid":18128,"hostname":"Niqmul-PC","msg":"Found 2 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746992580553,"pid":18128,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 1"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Shape 1: area=37.7, perimeter=13.36, volume=undefined"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 2 to 3"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=18.85, perimeter=12.45"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=18.85, perimeter=12.45, volume=undefined"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746992580562,"pid":18128,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746995406264,"pid":12332,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746995406264,"pid":12332,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746995406265,"pid":12332,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746995406265,"pid":12332,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746995406265,"pid":12332,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746995406265,"pid":12332,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=37.7, perimeter=13.36"}
+{"level":30,"time":1746995406265,"pid":12332,"hostname":"Niqmul-PC","msg":"Oval 1 created and added to repository"}
+{"level":50,"time":1746995406265,"pid":12332,"hostname":"Niqmul-PC","msg":"Invalid oval input: 1.0 2.0 -3.0 2.0. Validation error: Oval points must be non-negative"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 2"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron 2: area=0.65, volume=0"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Tetrahedron 2 created and added to repository"}
+{"level":50,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Invalid tetrahedron input: 1.a 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 1.5 3.5 4.5. Validation error: Invalid tetrahedron data"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"=== SPECIFICATIONS ==="}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Found 1 shapes with 'Oval 1' name"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Found 1 shapes with '2' ID"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Found 0 shapes in the first quadrant"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"Found 2 shapes at distance [1-5] from origin"}
+{"level":30,"time":1746995406266,"pid":12332,"hostname":"Niqmul-PC","msg":"=== SORTING ==="}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Sorted by ID: first element has ID 1"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Sorted by name: first element has name Oval 1"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Sorted by X coordinate: first element has X = 1"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Sorted by Y coordinate: first element has Y = 0"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"=== WAREHOUSE ==="}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Shape 1: area=37.7, perimeter=13.36, volume=undefined"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Changing point 0 X from 2 to 3"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape 1"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval 1: area=18.85, perimeter=12.45"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Updated shape 1: area=18.85, perimeter=12.45, volume=undefined"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"=== ID REMOVAL ==="}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Attempting to remove shape with ID: 1"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Direct removal result: success"}
+{"level":30,"time":1746995406275,"pid":12332,"hostname":"Niqmul-PC","msg":"Remaining shapes: 1"}
+{"level":30,"time":1746995420569,"pid":26088,"hostname":"Niqmul-PC","msg":"ShapeRepository instance created"}
+{"level":30,"time":1746995420569,"pid":26088,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746995420569,"pid":26088,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746995420570,"pid":26088,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746995420570,"pid":26088,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746995420571,"pid":26088,"hostname":"Niqmul-PC","msg":"Removed shape 1 from repository"}
+{"level":30,"time":1746995420571,"pid":26088,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746995420571,"pid":26088,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746995420571,"pid":26088,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746995420572,"pid":26088,"hostname":"Niqmul-PC","msg":"Repository cleared"}
+{"level":30,"time":1746995420572,"pid":26088,"hostname":"Niqmul-PC","msg":"Added shape 2 to repository"}
+{"level":30,"time":1746995420572,"pid":26088,"hostname":"Niqmul-PC","msg":"Added shape 1 to repository"}
+{"level":30,"time":1746995420545,"pid":26108,"hostname":"Niqmul-PC","msg":"ShapeWarehouse instance created"}
+{"level":30,"time":1746995420546,"pid":26108,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape oval-1"}
+{"level":30,"time":1746995420546,"pid":26108,"hostname":"Niqmul-PC","msg":"Updated warehouse for Oval oval-1: area=25.13, perimeter=9.69"}
+{"level":30,"time":1746995420549,"pid":26108,"hostname":"Niqmul-PC","msg":"Updated warehouse data for shape tetra-1"}
+{"level":30,"time":1746995420549,"pid":26108,"hostname":"Niqmul-PC","msg":"Updated warehouse for Tetrahedron tetra-1: area=2.37, volume=0.17"}

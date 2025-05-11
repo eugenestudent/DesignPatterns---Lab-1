@@ -15,7 +15,7 @@ describe('Oval Service', () => {
   test('should correctly calculate area of oval', () => {
     const pointA = new Point(4, 6);
     const pointB = new Point(0, 0);
-    const oval = new Oval('oval1', [pointA, pointB]);
+    const oval = new Oval('1','oval1', [pointA, pointB]);
 
     const area = ovalService.calculateArea(oval);
     expect(area).toBeCloseTo(Math.PI * 4 * 6, 2);
@@ -24,7 +24,7 @@ describe('Oval Service', () => {
   test('should correctly calculate perimeter of oval', () => {
     const pointA = new Point(4, 6);
     const pointB = new Point(0, 0);
-    const oval = new Oval('oval1', [pointA, pointB]);
+    const oval = new Oval('1','oval1', [pointA, pointB]);
   
     const a = Math.abs(pointA.x - pointB.x) / 2;
     const b = Math.abs(pointA.y - pointB.y) / 2;
